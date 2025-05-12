@@ -88,14 +88,16 @@
         <mxCell id="oexjbkZcw7AXTpVbHlUy-16" value="颜色+深度融合判断边界" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="757.5" y="280" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oexjbkZcw7AXTpVbHlUy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oexjbkZcw7AXTpVbHlUy-18" target="oexjbkZcw7AXTpVbHlUy-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oexjbkZcw7AXTpVbHlUy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oexjbkZcw7AXTpVbHlUy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960.0000000000002" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oexjbkZcw7AXTpVbHlUy-18" value="可视化结果输出" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oexjbkZcw7AXTpVbHlUy-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="60" width="80" height="80" as="geometry" />
+        <mxCell id="oexjbkZcw7AXTpVbHlUy-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="60" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
